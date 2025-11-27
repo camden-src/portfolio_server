@@ -1,0 +1,12 @@
+title = "Portfolio Server Configuration"
+
+[[listeners]]
+name = "local"
+socket_addr = "127.0.0.1:8080"
+
+[file_locations]
+frontend_scripts = "/srv/portfolio_site/js"
+frontend_styles = "/srv/portfolio_site/css"
+frontend_copy = "/srv/portfolio_site/html"
+media = "/srv/portfolio_site/media/"
+ 
