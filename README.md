@@ -14,7 +14,7 @@ The end goal is support for serving the media in properly encoded chunks from th
 This will ultimately be deployed on a server that runs on Akamai's network. The author is considering using Pulumi in Rust for provisioning infrastructure. The code for this would also be in a separate repository.
 
 ### Use of LLMs
-The author has experience using "stock" LLMs and the "next level up" code agents which attempt to provide a "code savvy" layer to stock LLMs. The author has found them generally disappointing, but especially disappointing for suggesting Rust which has structure or even compiles. The choice of Rust keeps the author honest (and is of personal interest to the other for other reasons).
+The author has experience using "stock" LLMs and the "next level up" code agents which attempt to provide a "code savvy" layer to stock LLMs. The author has found them generally disappointing, but especially disappointing for suggesting Rust which has structure or even compiles. The choice of Rust keeps the author honest (and is of personal interest to the author for other reasons).
 
 LLMs have been useful in providing general direction: crates to investigate, JavaScript and DOM constructs that haven't been employed in a while, and refreshing on standard Linux administration skills that haven't been exercised as often in recent professional roles.
 
